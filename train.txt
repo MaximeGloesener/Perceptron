@@ -1,0 +1,1429 @@
+Nombre d'itérations par époque = 174
+Epoch 0
+Accuracy = 0.05050143266475645
+Loss = 1.6995082048329633
+Val accuracy = 0.04835243553008596
+Val loss = 1.7102434970166251
+Nombre d'itérations par époque = 174
+Epoch 1
+Accuracy = 0.054709885386819486
+Loss = 1.2624533494255732
+Val accuracy = 0.050143266475644696
+Val loss = 1.2761090965331154
+Nombre d'itérations par époque = 174
+Epoch 2
+Accuracy = 0.07924426934097421
+Loss = 1.026358196490578
+Val accuracy = 0.06984240687679083
+Val loss = 1.0414354013409557
+Nombre d'itérations par époque = 174
+Epoch 3
+Accuracy = 0.12714899713467048
+Loss = 0.8786594980935355
+Val accuracy = 0.10315186246418338
+Val loss = 0.8947328291090855
+Nombre d'itérations par époque = 174
+Epoch 4
+Accuracy = 0.19108166189111747
+Loss = 0.7777399010817182
+Val accuracy = 0.15436962750716332
+Val loss = 0.7946815238348418
+Nombre d'itérations par époque = 174
+Epoch 5
+Accuracy = 0.25304441260744986
+Loss = 0.704377266175653
+Val accuracy = 0.2080945558739255
+Val loss = 0.7221635744956142
+Nombre d'itérations par époque = 174
+Epoch 6
+Accuracy = 0.31787249283667623
+Loss = 0.6485023652593268
+Val accuracy = 0.26468481375358166
+Val loss = 0.6671508627703264
+Nombre d'itérations par époque = 174
+Epoch 7
+Accuracy = 0.3818051575931232
+Loss = 0.6043586694205672
+Val accuracy = 0.3108882521489971
+Val loss = 0.6239035755234733
+Nombre d'itérations par époque = 174
+Epoch 8
+Accuracy = 0.44000716332378226
+Loss = 0.5684324949861892
+Val accuracy = 0.35888252148997135
+Val loss = 0.5889138445839883
+Nombre d'itérations par époque = 174
+Epoch 9
+Accuracy = 0.5036712034383954
+Loss = 0.5384668473938007
+Val accuracy = 0.41045845272206305
+Val loss = 0.5599249202069395
+Nombre d'itérations par époque = 174
+Epoch 10
+Accuracy = 0.5564111747851003
+Loss = 0.5129513375751478
+Val accuracy = 0.4684813753581662
+Val loss = 0.5354235529626779
+Nombre d'itérations par époque = 174
+Epoch 11
+Accuracy = 0.602256446991404
+Loss = 0.4908405762983452
+Val accuracy = 0.5150429799426934
+Val loss = 0.5143597569344536
+Nombre d'itérations par époque = 174
+Epoch 12
+Accuracy = 0.6437141833810889
+Loss = 0.4713902824090242
+Val accuracy = 0.5540830945558739
+Val loss = 0.49598378017155226
+Nombre d'itérations par époque = 174
+Epoch 13
+Accuracy = 0.6798889684813754
+Loss = 0.4540576503214632
+Val accuracy = 0.5870343839541547
+Val loss = 0.4797470367039094
+Nombre d'itérations par époque = 174
+Epoch 14
+Accuracy = 0.7107808022922636
+Loss = 0.4384384980092359
+Val accuracy = 0.6153295128939829
+Val loss = 0.4652396236051878
+Nombre d'itérations par époque = 174
+Epoch 15
+Accuracy = 0.7354942693409742
+Loss = 0.42422631591194243
+Val accuracy = 0.6429083094555874
+Val loss = 0.45214961365819845
+Nombre d'itérations par époque = 174
+Epoch 16
+Accuracy = 0.7576110315186246
+Loss = 0.4111848152179205
+Val accuracy = 0.660458452722063
+Val loss = 0.4402357695410109
+Nombre d'itérations par époque = 174
+Epoch 17
+Accuracy = 0.7757879656160458
+Loss = 0.39912906785515084
+Val accuracy = 0.6758595988538681
+Val loss = 0.4293087971664769
+Nombre d'itérations par époque = 174
+Epoch 18
+Accuracy = 0.7920845272206304
+Loss = 0.3879122843885341
+Val accuracy = 0.6916189111747851
+Val loss = 0.4192181930836892
+Nombre d'itérations par époque = 174
+Epoch 19
+Accuracy = 0.8064111747851003
+Loss = 0.37741639747274075
+Val accuracy = 0.705945558739255
+Val loss = 0.4098428545518774
+Nombre d'itérations par époque = 174
+Epoch 20
+Accuracy = 0.8189469914040115
+Loss = 0.3675452757163266
+Val accuracy = 0.7159742120343839
+Val loss = 0.40108427815021436
+Nombre d'itérations par époque = 174
+Epoch 21
+Accuracy = 0.8296919770773639
+Loss = 0.3582197872131987
+Val accuracy = 0.7231375358166189
+Val loss = 0.3928615712062083
+Nombre d'itérations par époque = 174
+Epoch 22
+Accuracy = 0.8360494269340975
+Loss = 0.3493741768946594
+Val accuracy = 0.7310171919770774
+Val loss = 0.38510774937716014
+Nombre d'itérations par époque = 174
+Epoch 23
+Accuracy = 0.8427650429799427
+Loss = 0.3409533808259091
+Val accuracy = 0.7392550143266475
+Val loss = 0.3777669548632376
+Nombre d'itérations par époque = 174
+Epoch 24
+Accuracy = 0.8497492836676218
+Loss = 0.3329110085839571
+Val accuracy = 0.7474928366762178
+Val loss = 0.3707923376155035
+Nombre d'itérations par époque = 174
+Epoch 25
+Accuracy = 0.8549426934097422
+Loss = 0.32520780102444113
+Val accuracy = 0.751432664756447
+Val loss = 0.36414441630130634
+Nombre d'itérations par époque = 174
+Epoch 26
+Accuracy = 0.8595093123209169
+Loss = 0.3178104259115784
+Val accuracy = 0.7546561604584527
+Val loss = 0.3577897883649968
+Nombre d'itérations par époque = 174
+Epoch 27
+Accuracy = 0.8653295128939829
+Loss = 0.3106905146069524
+Val accuracy = 0.7607449856733525
+Val loss = 0.351700096435111
+Nombre d'itérations par époque = 174
+Epoch 28
+Accuracy = 0.8703438395415473
+Loss = 0.3038238733825837
+Val accuracy = 0.7657593123209169
+Val loss = 0.34585118604593845
+Nombre d'itérations par époque = 174
+Epoch 29
+Accuracy = 0.8749104584527221
+Loss = 0.297189825406994
+Val accuracy = 0.7696991404011462
+Val loss = 0.34022240989151464
+Nombre d'itérations par époque = 174
+Epoch 30
+Accuracy = 0.8789398280802292
+Loss = 0.29077065547989656
+Val accuracy = 0.7725644699140402
+Val loss = 0.33479604826562603
+Nombre d'itérations par époque = 174
+Epoch 31
+Accuracy = 0.8823424068767909
+Loss = 0.2845511401291659
+Val accuracy = 0.7775787965616046
+Val loss = 0.3295568250759372
+Nombre d'itérations par époque = 174
+Epoch 32
+Accuracy = 0.8857449856733525
+Loss = 0.2785181516956142
+Val accuracy = 0.7811604584527221
+Val loss = 0.32449150481714856
+Nombre d'itérations par époque = 174
+Epoch 33
+Accuracy = 0.8889684813753582
+Loss = 0.2726603276777663
+Val accuracy = 0.7861747851002865
+Val loss = 0.3195885591359178
+Nombre d'itérations par époque = 174
+Epoch 34
+Accuracy = 0.8924606017191977
+Loss = 0.2669677971816071
+Val accuracy = 0.7922636103151862
+Val loss = 0.314837893114311
+Nombre d'itérations par époque = 174
+Epoch 35
+Accuracy = 0.8940723495702005
+Loss = 0.2614319560225228
+Val accuracy = 0.7972779369627507
+Val loss = 0.31023062202280294
+Nombre d'itérations par époque = 174
+Epoch 36
+Accuracy = 0.896310888252149
+Loss = 0.2560452817633903
+Val accuracy = 0.8005014326647565
+Val loss = 0.3057588897102231
+Nombre d'itérations par époque = 174
+Epoch 37
+Accuracy = 0.8994448424068768
+Loss = 0.25080118024924464
+Val accuracy = 0.8033667621776505
+Val loss = 0.30141572039970405
+Nombre d'itérations par époque = 174
+Epoch 38
+Accuracy = 0.9026683381088825
+Loss = 0.24569385614191055
+Val accuracy = 0.8076647564469914
+Val loss = 0.2971948965921016
+Nombre d'itérations par époque = 174
+Epoch 39
+Accuracy = 0.9055336676217765
+Loss = 0.24071820141800546
+Val accuracy = 0.8105300859598854
+Val loss = 0.29309085700280774
+Nombre d'itérations par époque = 174
+Epoch 40
+Accuracy = 0.9085780802292264
+Loss = 0.23586969747617706
+Val accuracy = 0.8116045845272206
+Val loss = 0.2890986098290006
+Nombre d'itérations par époque = 174
+Epoch 41
+Accuracy = 0.9110852435530086
+Loss = 0.2311443280864705
+Val accuracy = 0.8133954154727794
+Val loss = 0.2852136579813977
+Nombre d'itérations par époque = 174
+Epoch 42
+Accuracy = 0.9127865329512894
+Loss = 0.22653850165788053
+Val accuracy = 0.8151862464183381
+Val loss = 0.2814319340550658
+Nombre d'itérations par époque = 174
+Epoch 43
+Accuracy = 0.9155623209169055
+Loss = 0.2220489820736799
+Val accuracy = 0.8166189111747851
+Val loss = 0.2777497436487778
+Nombre d'itérations par époque = 174
+Epoch 44
+Accuracy = 0.917621776504298
+Loss = 0.21767282765643994
+Val accuracy = 0.8198424068767909
+Val loss = 0.2741637161363742
+Nombre d'itérations par époque = 174
+Epoch 45
+Accuracy = 0.9193230659025788
+Loss = 0.21340733779310211
+Val accuracy = 0.8212750716332379
+Val loss = 0.2706707621860152
+Nombre d'itérations par époque = 174
+Epoch 46
+Accuracy = 0.9205766475644699
+Loss = 0.20925000654685508
+Val accuracy = 0.8237822349570201
+Val loss = 0.267268037301664
+Nombre d'itérations par époque = 174
+Epoch 47
+Accuracy = 0.9229942693409742
+Loss = 0.20519848236582242
+Val accuracy = 0.8255730659025788
+Val loss = 0.2639529105252285
+Nombre d'itérations par époque = 174
+Epoch 48
+Accuracy = 0.9255909742120344
+Loss = 0.2012505328865776
+Val accuracy = 0.8255730659025788
+Val loss = 0.2607229373079364
+Nombre d'itérations par époque = 174
+Epoch 49
+Accuracy = 0.927560888252149
+Loss = 0.19740401391981988
+Val accuracy = 0.8273638968481375
+Val loss = 0.25757583556107294
+Nombre d'itérations par époque = 174
+Epoch 50
+Accuracy = 0.9293517191977078
+Loss = 0.19365684198868938
+Val accuracy = 0.8291547277936963
+Val loss = 0.25450946402080254
+Nombre d'itérations par époque = 174
+Epoch 51
+Accuracy = 0.9311425501432665
+Loss = 0.19000697013080523
+Val accuracy = 0.8298710601719198
+Val loss = 0.2515218022477518
+Nombre d'itérations par époque = 174
+Epoch 52
+Accuracy = 0.9323961318051576
+Loss = 0.1864523669763005
+Val accuracy = 0.832378223495702
+Val loss = 0.24861093184433206
+Nombre d'itérations par époque = 174
+Epoch 53
+Accuracy = 0.9333810888252149
+Loss = 0.18299099932619428
+Val accuracy = 0.8341690544412608
+Val loss = 0.24577501877586283
+Nombre d'itérations par époque = 174
+Epoch 54
+Accuracy = 0.9344555873925502
+Loss = 0.17962081853347586
+Val accuracy = 0.8348853868194842
+Val loss = 0.24301229694379944
+Nombre d'itérations par époque = 174
+Epoch 55
+Accuracy = 0.936067335243553
+Loss = 0.17633975092378368
+Val accuracy = 0.8363180515759312
+Val loss = 0.24032105332567316
+Nombre d'itérations par époque = 174
+Epoch 56
+Accuracy = 0.9374104584527221
+Loss = 0.17314569231581148
+Val accuracy = 0.8377507163323782
+Val loss = 0.2376996150469992
+Nombre d'itérations par époque = 174
+Epoch 57
+Accuracy = 0.9383058739255015
+Loss = 0.17003650646914525
+Val accuracy = 0.839541547277937
+Val loss = 0.2351463386945586
+Nombre d'itérations par époque = 174
+Epoch 58
+Accuracy = 0.9398280802292264
+Loss = 0.16701002705727444
+Val accuracy = 0.8409742120343839
+Val loss = 0.23265960204852856
+Nombre d'itérations par époque = 174
+Epoch 59
+Accuracy = 0.9407234957020058
+Loss = 0.1640640625802647
+Val accuracy = 0.8416905444126075
+Val loss = 0.2302377982444277
+Nombre d'itérations par époque = 174
+Epoch 60
+Accuracy = 0.9418875358166189
+Loss = 0.16119640351924272
+Val accuracy = 0.8424068767908309
+Val loss = 0.22787933221506632
+Nombre d'itérations par époque = 174
+Epoch 61
+Accuracy = 0.9426038681948424
+Loss = 0.15840483099948308
+Val accuracy = 0.8445558739255015
+Val loss = 0.22558261913562083
+Nombre d'itérations par époque = 174
+Epoch 62
+Accuracy = 0.9435888252148997
+Loss = 0.155687126261905
+Val accuracy = 0.8452722063037249
+Val loss = 0.22334608451361468
+Nombre d'itérations par époque = 174
+Epoch 63
+Accuracy = 0.9443946991404012
+Loss = 0.15304108032627475
+Val accuracy = 0.8467048710601719
+Val loss = 0.2211681655301423
+Nombre d'itérations par époque = 174
+Epoch 64
+Accuracy = 0.9456482808022922
+Loss = 0.15046450334270522
+Val accuracy = 0.8492120343839542
+Val loss = 0.21904731324301593
+Nombre d'itérations par époque = 174
+Epoch 65
+Accuracy = 0.9468123209169055
+Loss = 0.14795523325236795
+Val accuracy = 0.8492120343839542
+Val loss = 0.21698199529754092
+Nombre d'itérations par époque = 174
+Epoch 66
+Accuracy = 0.9475286532951289
+Loss = 0.14551114349922029
+Val accuracy = 0.8502865329512894
+Val loss = 0.21497069884574455
+Nombre d'itérations par époque = 174
+Epoch 67
+Accuracy = 0.9481554441260746
+Loss = 0.1431301496426254
+Val accuracy = 0.8527936962750716
+Val loss = 0.21301193343941002
+Nombre d'itérations par époque = 174
+Epoch 68
+Accuracy = 0.948871776504298
+Loss = 0.14081021481137684
+Val accuracy = 0.8535100286532952
+Val loss = 0.21110423372709064
+Nombre d'itérations par époque = 174
+Epoch 69
+Accuracy = 0.9494985673352435
+Loss = 0.1385493540111585
+Val accuracy = 0.8535100286532952
+Val loss = 0.2092461618441054
+Nombre d'itérations par époque = 174
+Epoch 70
+Accuracy = 0.9502148997134671
+Loss = 0.13634563734970248
+Val accuracy = 0.8542263610315186
+Val loss = 0.2074363094338272
+Nombre d'itérations par époque = 174
+Epoch 71
+Accuracy = 0.9510207736389685
+Loss = 0.1341971922782465
+Val accuracy = 0.8545845272206304
+Val loss = 0.205673299277132
+Nombre d'itérations par époque = 174
+Epoch 72
+Accuracy = 0.951737106017192
+Loss = 0.13210220496736497
+Val accuracy = 0.8545845272206304
+Val loss = 0.20395578653515212
+Nombre d'itérations par époque = 174
+Epoch 73
+Accuracy = 0.9522743553008596
+Loss = 0.13005892094328453
+Val accuracy = 0.8556590257879656
+Val loss = 0.20228245962999342
+Nombre d'itérations par époque = 174
+Epoch 74
+Accuracy = 0.9533488538681948
+Loss = 0.12806564511029445
+Val accuracy = 0.8567335243553008
+Val loss = 0.20065204080056714
+Nombre d'itérations par époque = 174
+Epoch 75
+Accuracy = 0.9538861031518625
+Loss = 0.12612074127817127
+Val accuracy = 0.8567335243553008
+Val loss = 0.1990632863775238
+Nombre d'itérations par époque = 174
+Epoch 76
+Accuracy = 0.9547815186246418
+Loss = 0.12422263130270055
+Val accuracy = 0.8567335243553008
+Val loss = 0.19751498682350888
+Nombre d'itérations par époque = 174
+Epoch 77
+Accuracy = 0.9554083094555874
+Loss = 0.1223697939341576
+Val accuracy = 0.8574498567335244
+Val loss = 0.19600596658361055
+Nombre d'itérations par époque = 174
+Epoch 78
+Accuracy = 0.9558560171919771
+Loss = 0.12056076345441565
+Val accuracy = 0.8574498567335244
+Val loss = 0.19453508378694628
+Nombre d'itérations par époque = 174
+Epoch 79
+Accuracy = 0.9561246418338109
+Loss = 0.11879412816921125
+Val accuracy = 0.8581661891117478
+Val loss = 0.19310122983480565
+Nombre d'itérations par époque = 174
+Epoch 80
+Accuracy = 0.9564828080229226
+Loss = 0.11706852880870286
+Val accuracy = 0.8603151862464183
+Val loss = 0.1917033289044971
+Nombre d'itérations par époque = 174
+Epoch 81
+Accuracy = 0.9571991404011462
+Loss = 0.11538265687726025
+Val accuracy = 0.8606733524355301
+Val loss = 0.1903403373917596
+Nombre d'itérations par époque = 174
+Epoch 82
+Accuracy = 0.9576468481375359
+Loss = 0.11373525298280703
+Val accuracy = 0.8613896848137536
+Val loss = 0.18901124330885957
+Nombre d'itérations par époque = 174
+Epoch 83
+Accuracy = 0.9578259312320917
+Loss = 0.11212510516737062
+Val accuracy = 0.8621060171919771
+Val loss = 0.18771506565064552
+Nombre d'itérations par époque = 174
+Epoch 84
+Accuracy = 0.9581840974212035
+Loss = 0.1105510472539177
+Val accuracy = 0.8621060171919771
+Val loss = 0.1864508537371272
+Nombre d'itérations par époque = 174
+Epoch 85
+Accuracy = 0.9582736389684814
+Loss = 0.10901195721968793
+Val accuracy = 0.8621060171919771
+Val loss = 0.18521768653856688
+Nombre d'itérations par époque = 174
+Epoch 86
+Accuracy = 0.9582736389684814
+Loss = 0.10750675560246584
+Val accuracy = 0.8621060171919771
+Val loss = 0.18401467198740534
+Nombre d'itérations par époque = 174
+Epoch 87
+Accuracy = 0.9586318051575932
+Loss = 0.10603440394323652
+Val accuracy = 0.8610315186246418
+Val loss = 0.18284094628025913
+Nombre d'itérations par époque = 174
+Epoch 88
+Accuracy = 0.9587213467048711
+Loss = 0.10459390326651934
+Val accuracy = 0.8617478510028653
+Val loss = 0.18169567317253027
+Nombre d'itérations par époque = 174
+Epoch 89
+Accuracy = 0.9589899713467048
+Loss = 0.10318429259840224
+Val accuracy = 0.8621060171919771
+Val loss = 0.18057804326781
+Nombre d'itérations par époque = 174
+Epoch 90
+Accuracy = 0.9595272206303725
+Loss = 0.10180464752175213
+Val accuracy = 0.8628223495702005
+Val loss = 0.17948727330418435
+Nombre d'itérations par époque = 174
+Epoch 91
+Accuracy = 0.9598853868194842
+Loss = 0.10045407876797886
+Val accuracy = 0.8631805157593123
+Val loss = 0.1784226054395166
+Nombre d'itérations par époque = 174
+Epoch 92
+Accuracy = 0.960243553008596
+Loss = 0.0991317308448188
+Val accuracy = 0.8631805157593123
+Val loss = 0.1773833065372567
+Nombre d'itérations par époque = 174
+Epoch 93
+Accuracy = 0.9606017191977078
+Loss = 0.09783678069962665
+Val accuracy = 0.8638968481375359
+Val loss = 0.17636866745269147
+Nombre d'itérations par époque = 174
+Epoch 94
+Accuracy = 0.9610494269340975
+Loss = 0.09656843641747194
+Val accuracy = 0.8635386819484241
+Val loss = 0.1753780023168312
+Nombre d'itérations par époque = 174
+Epoch 95
+Accuracy = 0.9611389684813754
+Loss = 0.09532593595304813
+Val accuracy = 0.8642550143266475
+Val loss = 0.17441064781324864
+Nombre d'itérations par époque = 174
+Epoch 96
+Accuracy = 0.9612285100286533
+Loss = 0.09410854589549816
+Val accuracy = 0.8646131805157593
+Val loss = 0.1734659624454464
+Nombre d'itérations par époque = 174
+Epoch 97
+Accuracy = 0.9613180515759312
+Loss = 0.09291556026616639
+Val accuracy = 0.8656876790830945
+Val loss = 0.17254332579939002
+Nombre d'itérations par époque = 174
+Epoch 98
+Accuracy = 0.9614075931232091
+Loss = 0.09174629935062668
+Val accuracy = 0.8656876790830945
+Val loss = 0.17164213781251136
+Nombre d'itérations par époque = 174
+Epoch 99
+Accuracy = 0.961676217765043
+Loss = 0.09060010856709029
+Val accuracy = 0.8660458452722063
+Val loss = 0.1707618180606163
+Nombre d'itérations par époque = 174
+Epoch 100
+Accuracy = 0.9617657593123209
+Loss = 0.08947635737299767
+Val accuracy = 0.8660458452722063
+Val loss = 0.16990180506835867
+Nombre d'itérations par époque = 174
+Epoch 101
+Accuracy = 0.9622134670487106
+Loss = 0.08837443821077796
+Val accuracy = 0.8656876790830945
+Val loss = 0.16906155564308079
+Nombre d'itérations par époque = 174
+Epoch 102
+Accuracy = 0.9623030085959885
+Loss = 0.08729376549311435
+Val accuracy = 0.8656876790830945
+Val loss = 0.1682405442294868
+Nombre d'itérations par époque = 174
+Epoch 103
+Accuracy = 0.9623925501432665
+Loss = 0.08623377462777637
+Val accuracy = 0.8667621776504298
+Val loss = 0.16743826228310674
+Nombre d'itérations par époque = 174
+Epoch 104
+Accuracy = 0.9624820916905444
+Loss = 0.08519392108201179
+Val accuracy = 0.8667621776504298
+Val loss = 0.1666542176617584
+Nombre d'itérations par époque = 174
+Epoch 105
+Accuracy = 0.9627507163323782
+Loss = 0.08417367948644666
+Val accuracy = 0.8671203438395415
+Val loss = 0.16588793403507088
+Nombre d'itérations par époque = 174
+Epoch 106
+Accuracy = 0.963019340974212
+Loss = 0.08317254277835674
+Val accuracy = 0.8667621776504298
+Val loss = 0.16513895031242407
+Nombre d'itérations par époque = 174
+Epoch 107
+Accuracy = 0.9633775071633238
+Loss = 0.08219002138403694
+Val accuracy = 0.8671203438395415
+Val loss = 0.1644068200895779
+Nombre d'itérations par époque = 174
+Epoch 108
+Accuracy = 0.9640042979942693
+Loss = 0.08122564243984276
+Val accuracy = 0.8674785100286533
+Val loss = 0.16369111111403242
+Nombre d'itérations par époque = 174
+Epoch 109
+Accuracy = 0.9643624641833811
+Loss = 0.08027894905131942
+Val accuracy = 0.8674785100286533
+Val loss = 0.16299140476888563
+Nombre d'itérations par époque = 174
+Epoch 110
+Accuracy = 0.964541547277937
+Loss = 0.07934949958970114
+Val accuracy = 0.8678366762177651
+Val loss = 0.16230729557470322
+Nombre d'itérations par époque = 174
+Epoch 111
+Accuracy = 0.9650787965616046
+Loss = 0.07843686702497414
+Val accuracy = 0.8681948424068768
+Val loss = 0.16163839070871847
+Nombre d'itérations par époque = 174
+Epoch 112
+Accuracy = 0.9652578796561605
+Loss = 0.07754063829467196
+Val accuracy = 0.8685530085959885
+Val loss = 0.1609843095406015
+Nombre d'itérations par époque = 174
+Epoch 113
+Accuracy = 0.9657951289398281
+Loss = 0.07666041370759773
+Val accuracy = 0.8685530085959885
+Val loss = 0.16034468318415998
+Nombre d'itérations par époque = 174
+Epoch 114
+Accuracy = 0.9660637535816619
+Loss = 0.07579580638162135
+Val accuracy = 0.8696275071633238
+Val loss = 0.15971915406481088
+Nombre d'itérations par époque = 174
+Epoch 115
+Accuracy = 0.9661532951289399
+Loss = 0.07494644171431349
+Val accuracy = 0.8696275071633238
+Val loss = 0.1591073755035652
+Nombre d'itérations par époque = 174
+Epoch 116
+Accuracy = 0.9661532951289399
+Loss = 0.0741119568843078
+Val accuracy = 0.8699856733524355
+Val loss = 0.15850901131938383
+Nombre d'itérations par époque = 174
+Epoch 117
+Accuracy = 0.9664219197707736
+Loss = 0.07329200038040543
+Val accuracy = 0.869269340974212
+Val loss = 0.15792373545244173
+Nombre d'itérations par époque = 174
+Epoch 118
+Accuracy = 0.9666010028653295
+Loss = 0.07248623155542763
+Val accuracy = 0.8696275071633238
+Val loss = 0.1573512316101959
+Nombre d'itérations par époque = 174
+Epoch 119
+Accuracy = 0.9666010028653295
+Loss = 0.07169432020276875
+Val accuracy = 0.8699856733524355
+Val loss = 0.156791192935897
+Nombre d'itérations par époque = 174
+Epoch 120
+Accuracy = 0.9669591690544412
+Loss = 0.07091594615456812
+Val accuracy = 0.8699856733524355
+Val loss = 0.15624332169616004
+Nombre d'itérations par époque = 174
+Epoch 121
+Accuracy = 0.9670487106017192
+Loss = 0.070150798900759
+Val accuracy = 0.8696275071633238
+Val loss = 0.155707328982082
+Nombre d'itérations par époque = 174
+Epoch 122
+Accuracy = 0.9674068767908309
+Loss = 0.06939857722808213
+Val accuracy = 0.8696275071633238
+Val loss = 0.15518293441840367
+Nombre d'itérations par époque = 174
+Epoch 123
+Accuracy = 0.9677650429799427
+Loss = 0.06865898887783276
+Val accuracy = 0.8696275071633238
+Val loss = 0.15466986587718384
+Nombre d'itérations par époque = 174
+Epoch 124
+Accuracy = 0.9678545845272206
+Loss = 0.06793175022085916
+Val accuracy = 0.869269340974212
+Val loss = 0.15416785919502984
+Nombre d'itérations par époque = 174
+Epoch 125
+Accuracy = 0.9680336676217765
+Loss = 0.06721658594822388
+Val accuracy = 0.8696275071633238
+Val loss = 0.15367665789477045
+Nombre d'itérations par époque = 174
+Epoch 126
+Accuracy = 0.9681232091690545
+Loss = 0.06651322877597565
+Val accuracy = 0.8696275071633238
+Val loss = 0.15319601291308843
+Nombre d'itérations par époque = 174
+Epoch 127
+Accuracy = 0.9684813753581661
+Loss = 0.06582141916261235
+Val accuracy = 0.869269340974212
+Val loss = 0.1527256823353779
+Nombre d'itérations par époque = 174
+Epoch 128
+Accuracy = 0.96875
+Loss = 0.06514090503799032
+Val accuracy = 0.869269340974212
+Val loss = 0.15226543113850088
+Nombre d'itérations par époque = 174
+Epoch 129
+Accuracy = 0.9691977077363897
+Loss = 0.06447144154262308
+Val accuracy = 0.8689111747851003
+Val loss = 0.1518150309415992
+Nombre d'itérations par époque = 174
+Epoch 130
+Accuracy = 0.9691977077363897
+Loss = 0.0638127907764887
+Val accuracy = 0.8689111747851003
+Val loss = 0.15137425976479954
+Nombre d'itérations par époque = 174
+Epoch 131
+Accuracy = 0.9693767908309455
+Loss = 0.06316472155662996
+Val accuracy = 0.8685530085959885
+Val loss = 0.15094290179554637
+Nombre d'itérations par époque = 174
+Epoch 132
+Accuracy = 0.9695558739255015
+Loss = 0.06252700918297967
+Val accuracy = 0.8696275071633238
+Val loss = 0.15052074716231745
+Nombre d'itérations par époque = 174
+Epoch 133
+Accuracy = 0.9699140401146131
+Loss = 0.0618994352119757
+Val accuracy = 0.8696275071633238
+Val loss = 0.1501075917155689
+Nombre d'itérations par époque = 174
+Epoch 134
+Accuracy = 0.9699140401146131
+Loss = 0.06128178723764417
+Val accuracy = 0.8699856733524355
+Val loss = 0.14970323681586922
+Nombre d'itérations par époque = 174
+Epoch 135
+Accuracy = 0.9700931232091691
+Loss = 0.06067385867992899
+Val accuracy = 0.8699856733524355
+Val loss = 0.14930748912927888
+Nombre d'itérations par époque = 174
+Epoch 136
+Accuracy = 0.970182664756447
+Loss = 0.06007544858012168
+Val accuracy = 0.870702005730659
+Val loss = 0.14892016043010559
+Nombre d'itérations par époque = 174
+Epoch 137
+Accuracy = 0.970182664756447
+Loss = 0.05948636140330748
+Val accuracy = 0.870702005730659
+Val loss = 0.14854106741120437
+Nombre d'itérations par époque = 174
+Epoch 138
+Accuracy = 0.9705408309455588
+Loss = 0.05890640684778313
+Val accuracy = 0.870702005730659
+Val loss = 0.14817003150199853
+Nombre d'itérations par époque = 174
+Epoch 139
+Accuracy = 0.9708094555873925
+Loss = 0.058335399661425584
+Val accuracy = 0.8703438395415473
+Val loss = 0.14780687869437234
+Nombre d'itérations par époque = 174
+Epoch 140
+Accuracy = 0.9708094555873925
+Loss = 0.05777315946499614
+Val accuracy = 0.8703438395415473
+Val loss = 0.1474514393765417
+Nombre d'itérations par époque = 174
+Epoch 141
+Accuracy = 0.9708989971346705
+Loss = 0.0572195105823588
+Val accuracy = 0.8703438395415473
+Val loss = 0.14710354817494461
+Nombre d'itérations par époque = 174
+Epoch 142
+Accuracy = 0.9709885386819485
+Loss = 0.05667428187757095
+Val accuracy = 0.8699856733524355
+Val loss = 0.14676304380413513
+Nombre d'itérations par époque = 174
+Epoch 143
+Accuracy = 0.9709885386819485
+Loss = 0.056137306598779795
+Val accuracy = 0.8703438395415473
+Val loss = 0.14642976892460458
+Nombre d'itérations par époque = 174
+Epoch 144
+Accuracy = 0.9710780802292264
+Loss = 0.055608422228827836
+Val accuracy = 0.8703438395415473
+Val loss = 0.146103570008419
+Nombre d'itérations par époque = 174
+Epoch 145
+Accuracy = 0.9710780802292264
+Loss = 0.05508747034244249
+Val accuracy = 0.8703438395415473
+Val loss = 0.14578429721254813
+Nombre d'itérations par époque = 174
+Epoch 146
+Accuracy = 0.9713467048710601
+Loss = 0.05457429646986028
+Val accuracy = 0.870702005730659
+Val loss = 0.14547180425975975
+Nombre d'itérations par époque = 174
+Epoch 147
+Accuracy = 0.9714362464183381
+Loss = 0.05406874996671502
+Val accuracy = 0.8699856733524355
+Val loss = 0.14516594832694296
+Nombre d'itérations par époque = 174
+Epoch 148
+Accuracy = 0.971615329512894
+Loss = 0.05357068388999269
+Val accuracy = 0.8696275071633238
+Val loss = 0.14486658994063337
+Nombre d'itérations par époque = 174
+Epoch 149
+Accuracy = 0.9717048710601719
+Loss = 0.053079954879805664
+Val accuracy = 0.8696275071633238
+Val loss = 0.14457359287926239
+Nombre d'itérations par époque = 174
+Epoch 150
+Accuracy = 0.9717048710601719
+Loss = 0.05259642304664455
+Val accuracy = 0.8696275071633238
+Val loss = 0.14428682408119864
+Nombre d'itérations par époque = 174
+Epoch 151
+Accuracy = 0.9718839541547278
+Loss = 0.052119951863630706
+Val accuracy = 0.869269340974212
+Val loss = 0.1440061535571471
+Nombre d'itérations par époque = 174
+Epoch 152
+Accuracy = 0.9719734957020058
+Loss = 0.051650408063182475
+Val accuracy = 0.8689111747851003
+Val loss = 0.14373145430532344
+Nombre d'itérations par époque = 174
+Epoch 153
+Accuracy = 0.9720630372492837
+Loss = 0.05118766153752647
+Val accuracy = 0.869269340974212
+Val loss = 0.14346260222842175
+Nombre d'itérations par époque = 174
+Epoch 154
+Accuracy = 0.9720630372492837
+Loss = 0.0507315852426741
+Val accuracy = 0.869269340974212
+Val loss = 0.14319947605256364
+Nombre d'itérations par époque = 174
+Epoch 155
+Accuracy = 0.9720630372492837
+Loss = 0.05028205510572947
+Val accuracy = 0.8696275071633238
+Val loss = 0.14294195724933387
+Nombre d'itérations par époque = 174
+Epoch 156
+Accuracy = 0.9720630372492837
+Loss = 0.049838949935527815
+Val accuracy = 0.8699856733524355
+Val loss = 0.1426899299620252
+Nombre d'itérations par époque = 174
+Epoch 157
+Accuracy = 0.9720630372492837
+Loss = 0.04940215133656872
+Val accuracy = 0.8696275071633238
+Val loss = 0.14244328093651953
+Nombre d'itérations par époque = 174
+Epoch 158
+Accuracy = 0.9721525787965616
+Loss = 0.048971543626097284
+Val accuracy = 0.8699856733524355
+Val loss = 0.14220189945649794
+Nombre d'itérations par époque = 174
+Epoch 159
+Accuracy = 0.9723316618911175
+Loss = 0.04854701375409847
+Val accuracy = 0.8703438395415473
+Val loss = 0.14196567728231918
+Nombre d'itérations par époque = 174
+Epoch 160
+Accuracy = 0.9724212034383954
+Loss = 0.04812845122594594
+Val accuracy = 0.8703438395415473
+Val loss = 0.1417345085929052
+Nombre d'itérations par époque = 174
+Epoch 161
+Accuracy = 0.9725107449856734
+Loss = 0.04771574802746757
+Val accuracy = 0.8703438395415473
+Val loss = 0.14150828993012346
+Nombre d'itérations par époque = 174
+Epoch 162
+Accuracy = 0.9726002865329513
+Loss = 0.04730879855222479
+Val accuracy = 0.870702005730659
+Val loss = 0.1412869201453133
+Nombre d'itérations par époque = 174
+Epoch 163
+Accuracy = 0.9726002865329513
+Loss = 0.04690749953084226
+Val accuracy = 0.8699856733524355
+Val loss = 0.14107030034769882
+Nombre d'itérations par époque = 174
+Epoch 164
+Accuracy = 0.9726898280802292
+Loss = 0.04651174996225686
+Val accuracy = 0.8703438395415473
+Val loss = 0.1408583338544802
+Nombre d'itérations par époque = 174
+Epoch 165
+Accuracy = 0.9726898280802292
+Loss = 0.046121451046785555
+Val accuracy = 0.8703438395415473
+Val loss = 0.1406509261423997
+Nombre d'itérations par époque = 174
+Epoch 166
+Accuracy = 0.9727793696275072
+Loss = 0.04573650612094088
+Val accuracy = 0.870702005730659
+Val loss = 0.14044798480057447
+Nombre d'itérations par époque = 174
+Epoch 167
+Accuracy = 0.9727793696275072
+Loss = 0.04535682059395407
+Val accuracy = 0.8703438395415473
+Val loss = 0.14024941948437825
+Nombre d'itérations par époque = 174
+Epoch 168
+Accuracy = 0.9727793696275072
+Loss = 0.04498230188599932
+Val accuracy = 0.8710601719197708
+Val loss = 0.14005514187016435
+Nombre d'itérations par époque = 174
+Epoch 169
+Accuracy = 0.9727793696275072
+Loss = 0.04461285936814928
+Val accuracy = 0.8710601719197708
+Val loss = 0.13986506561065243
+Nombre d'itérations par époque = 174
+Epoch 170
+Accuracy = 0.973047994269341
+Loss = 0.04424840430413495
+Val accuracy = 0.8710601719197708
+Val loss = 0.1396791062908594
+Nombre d'itérations par époque = 174
+Epoch 171
+Accuracy = 0.9731375358166189
+Loss = 0.0438888497940293
+Val accuracy = 0.8710601719197708
+Val loss = 0.13949718138454878
+Nombre d'itérations par époque = 174
+Epoch 172
+Accuracy = 0.9734061604584527
+Loss = 0.04353411072002291
+Val accuracy = 0.8714183381088825
+Val loss = 0.13931921021130098
+Nombre d'itérations par époque = 174
+Epoch 173
+Accuracy = 0.9734957020057307
+Loss = 0.04318410369449978
+Val accuracy = 0.872134670487106
+Val loss = 0.13914511389446518
+Nombre d'itérations par époque = 174
+Epoch 174
+Accuracy = 0.9736747851002865
+Loss = 0.04283874701063772
+Val accuracy = 0.8732091690544412
+Val loss = 0.1389748153204129
+Nombre d'itérations par époque = 174
+Epoch 175
+Accuracy = 0.9737643266475645
+Loss = 0.04249796059574002
+Val accuracy = 0.873567335243553
+Val loss = 0.13880823909961948
+Nombre d'itérations par époque = 174
+Epoch 176
+Accuracy = 0.9737643266475645
+Loss = 0.04216166596745458
+Val accuracy = 0.8732091690544412
+Val loss = 0.13864531153010967
+Nombre d'itérations par époque = 174
+Epoch 177
+Accuracy = 0.9739434097421203
+Loss = 0.04182978619297624
+Val accuracy = 0.8728510028653295
+Val loss = 0.13848596056369794
+Nombre d'itérations par époque = 174
+Epoch 178
+Accuracy = 0.9739434097421203
+Loss = 0.04150224585128214
+Val accuracy = 0.8732091690544412
+Val loss = 0.1383301157752694
+Nombre d'itérations par époque = 174
+Epoch 179
+Accuracy = 0.9739434097421203
+Loss = 0.04117897099844388
+Val accuracy = 0.873567335243553
+Val loss = 0.13817770833513712
+Nombre d'itérations par époque = 174
+Epoch 180
+Accuracy = 0.9740329512893983
+Loss = 0.040859889136093314
+Val accuracy = 0.873567335243553
+Val loss = 0.13802867098433885
+Nombre d'itérations par époque = 174
+Epoch 181
+Accuracy = 0.9740329512893983
+Loss = 0.04054492918317662
+Val accuracy = 0.8732091690544412
+Val loss = 0.13788293801261395
+Nombre d'itérations par époque = 174
+Epoch 182
+Accuracy = 0.9741224928366762
+Loss = 0.04023402145119201
+Val accuracy = 0.8728510028653295
+Val loss = 0.13774044523874074
+Nombre d'itérations par époque = 174
+Epoch 183
+Accuracy = 0.9741224928366762
+Loss = 0.03992709762314827
+Val accuracy = 0.8732091690544412
+Val loss = 0.13760112999287077
+Nombre d'itérations par époque = 174
+Epoch 184
+Accuracy = 0.9741224928366762
+Loss = 0.039624090736493964
+Val accuracy = 0.8732091690544412
+Val loss = 0.1374649311004646
+Nombre d'itérations par époque = 174
+Epoch 185
+Accuracy = 0.9742120343839542
+Loss = 0.039324935170246496
+Val accuracy = 0.8732091690544412
+Val loss = 0.13733178886738595
+Nombre d'itérations par époque = 174
+Epoch 186
+Accuracy = 0.9743015759312321
+Loss = 0.0390295666364964
+Val accuracy = 0.8732091690544412
+Val loss = 0.13720164506566235
+Nombre d'itérations par époque = 174
+Epoch 187
+Accuracy = 0.974480659025788
+Loss = 0.038737922176378496
+Val accuracy = 0.8728510028653295
+Val loss = 0.13707444291937182
+Nombre d'itérations par époque = 174
+Epoch 188
+Accuracy = 0.9746597421203438
+Loss = 0.0384499401604872
+Val accuracy = 0.8724928366762178
+Val loss = 0.13695012709009452
+Nombre d'itérations par époque = 174
+Epoch 189
+Accuracy = 0.9746597421203438
+Loss = 0.038165560293572834
+Val accuracy = 0.8724928366762178
+Val loss = 0.1368286436613788
+Nombre d'itérations par époque = 174
+Epoch 190
+Accuracy = 0.9747492836676218
+Loss = 0.03788472362319397
+Val accuracy = 0.8724928366762178
+Val loss = 0.1367099401217241
+Nombre d'itérations par époque = 174
+Epoch 191
+Accuracy = 0.9747492836676218
+Loss = 0.0376073725518263
+Val accuracy = 0.8728510028653295
+Val loss = 0.1365939653456477
+Nombre d'itérations par époque = 174
+Epoch 192
+Accuracy = 0.9747492836676218
+Loss = 0.03733345085174793
+Val accuracy = 0.8732091690544412
+Val loss = 0.13648066957245952
+Nombre d'itérations par époque = 174
+Epoch 193
+Accuracy = 0.9747492836676218
+Loss = 0.037062903681837116
+Val accuracy = 0.8732091690544412
+Val loss = 0.13637000438236468
+Nombre d'itérations par époque = 174
+Epoch 194
+Accuracy = 0.9747492836676218
+Loss = 0.03679567760522812
+Val accuracy = 0.873567335243553
+Val loss = 0.13626192266944603
+Nombre d'itérations par époque = 174
+Epoch 195
+Accuracy = 0.9749283667621776
+Loss = 0.036531720606578416
+Val accuracy = 0.8732091690544412
+Val loss = 0.1361563786109628
+Nombre d'itérations par époque = 174
+Epoch 196
+Accuracy = 0.9749283667621776
+Loss = 0.036270982107510855
+Val accuracy = 0.8724928366762178
+Val loss = 0.1360533276323068
+Nombre d'itérations par époque = 174
+Epoch 197
+Accuracy = 0.9749283667621776
+Loss = 0.03601341297863193
+Val accuracy = 0.8724928366762178
+Val loss = 0.135952726366963
+Nombre d'itérations par époque = 174
+Epoch 198
+Accuracy = 0.9750179083094556
+Loss = 0.03575896554641017
+Val accuracy = 0.8728510028653295
+Val loss = 0.13585453261098793
+Nombre d'itérations par époque = 174
+Epoch 199
+Accuracy = 0.9750179083094556
+Loss = 0.03550759359315441
+Val accuracy = 0.8724928366762178
+Val loss = 0.1357587052718504
+Nombre d'itérations par époque = 174
+Epoch 200
+Accuracy = 0.9750179083094556
+Loss = 0.035259252348379684
+Val accuracy = 0.8724928366762178
+Val loss = 0.13566520431188864
+Nombre d'itérations par époque = 174
+Epoch 201
+Accuracy = 0.9751074498567335
+Loss = 0.03501389847000276
+Val accuracy = 0.8724928366762178
+Val loss = 0.13557399068698728
+Nombre d'itérations par époque = 174
+Epoch 202
+Accuracy = 0.9751074498567335
+Loss = 0.03477149001407253
+Val accuracy = 0.872134670487106
+Val loss = 0.1354850262812817
+Nombre d'itérations par époque = 174
+Epoch 203
+Accuracy = 0.9751074498567335
+Loss = 0.03453198639211003
+Val accuracy = 0.872134670487106
+Val loss = 0.13539827383873246
+Nombre d'itérations par époque = 174
+Epoch 204
+Accuracy = 0.9751074498567335
+Loss = 0.03429534831559532
+Val accuracy = 0.872134670487106
+Val loss = 0.13531369689236705
+Nombre d'itérations par époque = 174
+Epoch 205
+Accuracy = 0.9751074498567335
+Loss = 0.03406153772768096
+Val accuracy = 0.872134670487106
+Val loss = 0.1352312596919578
+Nombre d'itérations par époque = 174
+Epoch 206
+Accuracy = 0.9751074498567335
+Loss = 0.03383051772280937
+Val accuracy = 0.8717765042979942
+Val loss = 0.13515092713096236
+Nombre d'itérations par époque = 174
+Epoch 207
+Accuracy = 0.9751074498567335
+Loss = 0.03360225245553614
+Val accuracy = 0.8717765042979942
+Val loss = 0.1350726646737069
+Nombre d'itérations par époque = 174
+Epoch 208
+Accuracy = 0.9751969914040115
+Loss = 0.03337670704046989
+Val accuracy = 0.8717765042979942
+Val loss = 0.1349964382840127
+Nombre d'itérations par époque = 174
+Epoch 209
+Accuracy = 0.9751969914040115
+Loss = 0.0331538474457824
+Val accuracy = 0.8717765042979942
+Val loss = 0.13492221435669408
+Nombre d'itérations par époque = 174
+Epoch 210
+Accuracy = 0.9752865329512894
+Loss = 0.032933640383171064
+Val accuracy = 0.8717765042979942
+Val loss = 0.1348499596535064
+Nombre d'itérations par époque = 174
+Epoch 211
+Accuracy = 0.9753760744985673
+Loss = 0.03271605319742552
+Val accuracy = 0.872134670487106
+Val loss = 0.13477964124514968
+Nombre d'itérations par époque = 174
+Epoch 212
+Accuracy = 0.9754656160458453
+Loss = 0.03250105375883449
+Val accuracy = 0.8717765042979942
+Val loss = 0.13471122646080266
+Nombre d'itérations par époque = 174
+Epoch 213
+Accuracy = 0.9756446991404012
+Loss = 0.032288610361557626
+Val accuracy = 0.872134670487106
+Val loss = 0.1346446828463998
+Nombre d'itérations par époque = 174
+Epoch 214
+Accuracy = 0.9757342406876791
+Loss = 0.032078691630785076
+Val accuracy = 0.8717765042979942
+Val loss = 0.1345799781325028
+Nombre d'itérations par époque = 174
+Epoch 215
+Accuracy = 0.975823782234957
+Loss = 0.03187126644104115
+Val accuracy = 0.872134670487106
+Val loss = 0.1345170802122163
+Nombre d'itérations par époque = 174
+Epoch 216
+Accuracy = 0.975823782234957
+Loss = 0.031666303847395216
+Val accuracy = 0.872134670487106
+Val loss = 0.13445595712918199
+Nombre d'itérations par époque = 174
+Epoch 217
+Accuracy = 0.975823782234957
+Loss = 0.03146377303067468
+Val accuracy = 0.872134670487106
+Val loss = 0.13439657707530037
+Nombre d'itérations par époque = 174
+Epoch 218
+Accuracy = 0.975823782234957
+Loss = 0.031263643257083924
+Val accuracy = 0.8724928366762178
+Val loss = 0.13433890839748858
+Nombre d'itérations par époque = 174
+Epoch 219
+Accuracy = 0.975823782234957
+Loss = 0.031065883851973685
+Val accuracy = 0.8728510028653295
+Val loss = 0.13428291961250133
+Nombre d'itérations par époque = 174
+Epoch 220
+Accuracy = 0.975823782234957
+Loss = 0.03087046418692259
+Val accuracy = 0.8728510028653295
+Val loss = 0.1342285794286334
+Nombre d'itérations par époque = 174
+Epoch 221
+Accuracy = 0.975823782234957
+Loss = 0.030677353678818173
+Val accuracy = 0.8728510028653295
+Val loss = 0.1341758567729737
+Nombre d'itérations par époque = 174
+Epoch 222
+Accuracy = 0.975823782234957
+Loss = 0.03048652179928128
+Val accuracy = 0.8728510028653295
+Val loss = 0.1341247208228062
+Nombre d'itérations par époque = 174
+Epoch 223
+Accuracy = 0.9759133237822349
+Loss = 0.030297938092569428
+Val accuracy = 0.8728510028653295
+Val loss = 0.13407514103974283
+Nombre d'itérations par époque = 174
+Epoch 224
+Accuracy = 0.9759133237822349
+Loss = 0.030111572200017384
+Val accuracy = 0.8728510028653295
+Val loss = 0.13402708720523399
+Nombre d'itérations par époque = 174
+Epoch 225
+Accuracy = 0.9760028653295129
+Loss = 0.02992739388910901
+Val accuracy = 0.8728510028653295
+Val loss = 0.13398052945622665
+Nombre d'itérations par époque = 174
+Epoch 226
+Accuracy = 0.9760028653295129
+Loss = 0.029745373085401386
+Val accuracy = 0.8728510028653295
+Val loss = 0.13393543831991347
+Nombre d'itérations par époque = 174
+Epoch 227
+Accuracy = 0.9760924068767909
+Loss = 0.029565479905714717
+Val accuracy = 0.8724928366762178
+Val loss = 0.13389178474670374
+Nombre d'itérations par époque = 174
+Epoch 228
+Accuracy = 0.9760924068767909
+Loss = 0.029387684691234293
+Val accuracy = 0.872134670487106
+Val loss = 0.13384954014073022
+Nombre d'itérations par époque = 174
+Epoch 229
+Accuracy = 0.9761819484240688
+Loss = 0.029211958039422694
+Val accuracy = 0.872134670487106
+Val loss = 0.13380867638736624
+Nombre d'itérations par époque = 174
+Epoch 230
+Accuracy = 0.9761819484240688
+Loss = 0.029038270833893105
+Val accuracy = 0.872134670487106
+Val loss = 0.13376916587735863
+Nombre d'itérations par époque = 174
+Epoch 231
+Accuracy = 0.9761819484240688
+Loss = 0.028866594271633527
+Val accuracy = 0.872134670487106
+Val loss = 0.13373098152730362
+Nombre d'itérations par époque = 174
+Epoch 232
+Accuracy = 0.9761819484240688
+Loss = 0.028696899887187217
+Val accuracy = 0.872134670487106
+Val loss = 0.13369409679628244
+Nombre d'itérations par époque = 174
+Epoch 233
+Accuracy = 0.9761819484240688
+Loss = 0.02852915957358048
+Val accuracy = 0.8717765042979942
+Val loss = 0.13365848569855365
+Nombre d'itérations par époque = 174
+Epoch 234
+Accuracy = 0.9762714899713467
+Loss = 0.0283633455999414
+Val accuracy = 0.8717765042979942
+Val loss = 0.133624122812267
+Nombre d'itérations par époque = 174
+Epoch 235
+Accuracy = 0.9762714899713467
+Loss = 0.02819943062587327
+Val accuracy = 0.8714183381088825
+Val loss = 0.13359098328425525
+Nombre d'itérations par époque = 174
+Epoch 236
+Accuracy = 0.9762714899713467
+Loss = 0.02803738771273653
+Val accuracy = 0.8714183381088825
+Val loss = 0.1335590428311097
+Nombre d'itérations par époque = 174
+Epoch 237
+Accuracy = 0.9762714899713467
+Loss = 0.027877190332057784
+Val accuracy = 0.8714183381088825
+Val loss = 0.13352827773692363
+Nombre d'itérations par époque = 174
