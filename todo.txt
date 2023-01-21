@@ -1,6 +1,0 @@
-implémenter val data pour overfitting et early stopping (test sur val-loss)
-plusieurs couches
-lr 0.01 pas mal
-normaliser données = good
-tester standard scaler
-coder plot val loss val acc train loss train acc
